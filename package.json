@@ -20,9 +20,9 @@
     "url": "https://lpgithub.dev.lprnd.net/CI/lion.git"
   },
   "keywords": [],
-  "main": "./usr/src/app",
+  "main": "./",
   "scripts": {
-    "start": "node ./usr/src/app",
+    "start": "node ./",
     "test": "intern-runner config=tests/intern",
     "localdev": "node ./debug/lion-ldk.js",
     "grunt": "grunt"
